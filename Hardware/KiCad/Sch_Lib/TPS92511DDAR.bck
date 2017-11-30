@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS92511
+D Dual power-distribution switcher
+K 2-chanel power-distribution USB
+F http://www.ti.com/lit/ds/symlink/tps2042.pdf
+$ENDCMP
+#
+#End Doc Library
