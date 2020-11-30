@@ -1,0 +1,567 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED_Small D1
+U 1 1 5FAA5FBA
+P 2550 2500
+F 0 "D1" H 2550 2293 50  0000 C CNN
+F 1 "LED_Small" H 2550 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 2550 2500 50  0001 C CNN
+F 3 "~" V 2550 2500 50  0001 C CNN
+	1    2550 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D3
+U 1 1 5FAABE81
+P 2850 2500
+F 0 "D3" H 2850 2293 50  0000 C CNN
+F 1 "LED_Small" H 2850 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 2850 2500 50  0001 C CNN
+F 3 "~" V 2850 2500 50  0001 C CNN
+	1    2850 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D5
+U 1 1 5FAAC65D
+P 3150 2500
+F 0 "D5" H 3150 2293 50  0000 C CNN
+F 1 "LED_Small" H 3150 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 3150 2500 50  0001 C CNN
+F 3 "~" V 3150 2500 50  0001 C CNN
+	1    3150 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D7
+U 1 1 5FAAD15D
+P 3450 2500
+F 0 "D7" H 3450 2293 50  0000 C CNN
+F 1 "LED_Small" H 3450 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 3450 2500 50  0001 C CNN
+F 3 "~" V 3450 2500 50  0001 C CNN
+	1    3450 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D9
+U 1 1 5FAAD796
+P 3750 2500
+F 0 "D9" H 3750 2293 50  0000 C CNN
+F 1 "LED_Small" H 3750 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 3750 2500 50  0001 C CNN
+F 3 "~" V 3750 2500 50  0001 C CNN
+	1    3750 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D11
+U 1 1 5FAADE85
+P 4050 2500
+F 0 "D11" H 4050 2293 50  0000 C CNN
+F 1 "LED_Small" H 4050 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4050 2500 50  0001 C CNN
+F 3 "~" V 4050 2500 50  0001 C CNN
+	1    4050 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D13
+U 1 1 5FAB1796
+P 4350 2500
+F 0 "D13" H 4350 2293 50  0000 C CNN
+F 1 "LED_Small" H 4350 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4350 2500 50  0001 C CNN
+F 3 "~" V 4350 2500 50  0001 C CNN
+	1    4350 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D15
+U 1 1 5FAB1844
+P 4650 2500
+F 0 "D15" H 4650 2293 50  0000 C CNN
+F 1 "LED_Small" H 4650 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4650 2500 50  0001 C CNN
+F 3 "~" V 4650 2500 50  0001 C CNN
+	1    4650 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D17
+U 1 1 5FAB184E
+P 4950 2500
+F 0 "D17" H 4950 2293 50  0000 C CNN
+F 1 "LED_Small" H 4950 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4950 2500 50  0001 C CNN
+F 3 "~" V 4950 2500 50  0001 C CNN
+	1    4950 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D19
+U 1 1 5FAB1858
+P 5250 2500
+F 0 "D19" H 5250 2293 50  0000 C CNN
+F 1 "LED_Small" H 5250 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 5250 2500 50  0001 C CNN
+F 3 "~" V 5250 2500 50  0001 C CNN
+	1    5250 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D21
+U 1 1 5FAB1862
+P 5550 2500
+F 0 "D21" H 5550 2293 50  0000 C CNN
+F 1 "LED_Small" H 5550 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 5550 2500 50  0001 C CNN
+F 3 "~" V 5550 2500 50  0001 C CNN
+	1    5550 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D23
+U 1 1 5FAB186C
+P 5850 2500
+F 0 "D23" H 5850 2293 50  0000 C CNN
+F 1 "LED_Small" H 5850 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 5850 2500 50  0001 C CNN
+F 3 "~" V 5850 2500 50  0001 C CNN
+	1    5850 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D25
+U 1 1 5FAB797C
+P 6150 2500
+F 0 "D25" H 6150 2293 50  0000 C CNN
+F 1 "LED_Small" H 6150 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 6150 2500 50  0001 C CNN
+F 3 "~" V 6150 2500 50  0001 C CNN
+	1    6150 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D27
+U 1 1 5FAB7ABA
+P 6450 2500
+F 0 "D27" H 6450 2293 50  0000 C CNN
+F 1 "LED_Small" H 6450 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 6450 2500 50  0001 C CNN
+F 3 "~" V 6450 2500 50  0001 C CNN
+	1    6450 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D29
+U 1 1 5FAB7AC4
+P 6750 2500
+F 0 "D29" H 6750 2293 50  0000 C CNN
+F 1 "LED_Small" H 6750 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 6750 2500 50  0001 C CNN
+F 3 "~" V 6750 2500 50  0001 C CNN
+	1    6750 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D31
+U 1 1 5FAB7ACE
+P 7050 2500
+F 0 "D31" H 7050 2293 50  0000 C CNN
+F 1 "LED_Small" H 7050 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 7050 2500 50  0001 C CNN
+F 3 "~" V 7050 2500 50  0001 C CNN
+	1    7050 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D33
+U 1 1 5FAB7AD8
+P 7350 2500
+F 0 "D33" H 7350 2293 50  0000 C CNN
+F 1 "LED_Small" H 7350 2384 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 7350 2500 50  0001 C CNN
+F 3 "~" V 7350 2500 50  0001 C CNN
+	1    7350 2500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2650 2500 2750 2500
+Wire Wire Line
+	2950 2500 3050 2500
+Wire Wire Line
+	3250 2500 3350 2500
+Wire Wire Line
+	3550 2500 3650 2500
+Wire Wire Line
+	3850 2500 3950 2500
+Wire Wire Line
+	4150 2500 4250 2500
+Wire Wire Line
+	4450 2500 4550 2500
+Wire Wire Line
+	4750 2500 4850 2500
+Wire Wire Line
+	5050 2500 5150 2500
+Wire Wire Line
+	5350 2500 5450 2500
+Wire Wire Line
+	5650 2500 5750 2500
+Wire Wire Line
+	5950 2500 6050 2500
+Wire Wire Line
+	6250 2500 6350 2500
+Wire Wire Line
+	6550 2500 6650 2500
+Wire Wire Line
+	6850 2500 6950 2500
+Wire Wire Line
+	7150 2500 7250 2500
+$Comp
+L Device:LED_Small D2
+U 1 1 5FAC8BE9
+P 2550 3100
+F 0 "D2" H 2550 2893 50  0000 C CNN
+F 1 "LED_Small" H 2550 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 2550 3100 50  0001 C CNN
+F 3 "~" V 2550 3100 50  0001 C CNN
+	1    2550 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D4
+U 1 1 5FAC8D9F
+P 2850 3100
+F 0 "D4" H 2850 2893 50  0000 C CNN
+F 1 "LED_Small" H 2850 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 2850 3100 50  0001 C CNN
+F 3 "~" V 2850 3100 50  0001 C CNN
+	1    2850 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D6
+U 1 1 5FAC8DA9
+P 3150 3100
+F 0 "D6" H 3150 2893 50  0000 C CNN
+F 1 "LED_Small" H 3150 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 3150 3100 50  0001 C CNN
+F 3 "~" V 3150 3100 50  0001 C CNN
+	1    3150 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D8
+U 1 1 5FAC8DB3
+P 3450 3100
+F 0 "D8" H 3450 2893 50  0000 C CNN
+F 1 "LED_Small" H 3450 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 3450 3100 50  0001 C CNN
+F 3 "~" V 3450 3100 50  0001 C CNN
+	1    3450 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D10
+U 1 1 5FAC8DBD
+P 3750 3100
+F 0 "D10" H 3750 2893 50  0000 C CNN
+F 1 "LED_Small" H 3750 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 3750 3100 50  0001 C CNN
+F 3 "~" V 3750 3100 50  0001 C CNN
+	1    3750 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D12
+U 1 1 5FAC8DC7
+P 4050 3100
+F 0 "D12" H 4050 2893 50  0000 C CNN
+F 1 "LED_Small" H 4050 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4050 3100 50  0001 C CNN
+F 3 "~" V 4050 3100 50  0001 C CNN
+	1    4050 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D14
+U 1 1 5FAC8DD1
+P 4350 3100
+F 0 "D14" H 4350 2893 50  0000 C CNN
+F 1 "LED_Small" H 4350 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4350 3100 50  0001 C CNN
+F 3 "~" V 4350 3100 50  0001 C CNN
+	1    4350 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D16
+U 1 1 5FAC8DDB
+P 4650 3100
+F 0 "D16" H 4650 2893 50  0000 C CNN
+F 1 "LED_Small" H 4650 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4650 3100 50  0001 C CNN
+F 3 "~" V 4650 3100 50  0001 C CNN
+	1    4650 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D18
+U 1 1 5FAC8DE5
+P 4950 3100
+F 0 "D18" H 4950 2893 50  0000 C CNN
+F 1 "LED_Small" H 4950 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 4950 3100 50  0001 C CNN
+F 3 "~" V 4950 3100 50  0001 C CNN
+	1    4950 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D20
+U 1 1 5FAC8DEF
+P 5250 3100
+F 0 "D20" H 5250 2893 50  0000 C CNN
+F 1 "LED_Small" H 5250 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 5250 3100 50  0001 C CNN
+F 3 "~" V 5250 3100 50  0001 C CNN
+	1    5250 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D22
+U 1 1 5FAC8DF9
+P 5550 3100
+F 0 "D22" H 5550 2893 50  0000 C CNN
+F 1 "LED_Small" H 5550 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 5550 3100 50  0001 C CNN
+F 3 "~" V 5550 3100 50  0001 C CNN
+	1    5550 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D24
+U 1 1 5FAC8E03
+P 5850 3100
+F 0 "D24" H 5850 2893 50  0000 C CNN
+F 1 "LED_Small" H 5850 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 5850 3100 50  0001 C CNN
+F 3 "~" V 5850 3100 50  0001 C CNN
+	1    5850 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D26
+U 1 1 5FAC8E0D
+P 6150 3100
+F 0 "D26" H 6150 2893 50  0000 C CNN
+F 1 "LED_Small" H 6150 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 6150 3100 50  0001 C CNN
+F 3 "~" V 6150 3100 50  0001 C CNN
+	1    6150 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D28
+U 1 1 5FAC8E17
+P 6450 3100
+F 0 "D28" H 6450 2893 50  0000 C CNN
+F 1 "LED_Small" H 6450 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 6450 3100 50  0001 C CNN
+F 3 "~" V 6450 3100 50  0001 C CNN
+	1    6450 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D30
+U 1 1 5FAC8E21
+P 6750 3100
+F 0 "D30" H 6750 2893 50  0000 C CNN
+F 1 "LED_Small" H 6750 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 6750 3100 50  0001 C CNN
+F 3 "~" V 6750 3100 50  0001 C CNN
+	1    6750 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D32
+U 1 1 5FAC8E2B
+P 7050 3100
+F 0 "D32" H 7050 2893 50  0000 C CNN
+F 1 "LED_Small" H 7050 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 7050 3100 50  0001 C CNN
+F 3 "~" V 7050 3100 50  0001 C CNN
+	1    7050 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED_Small D34
+U 1 1 5FAC8E35
+P 7350 3100
+F 0 "D34" H 7350 2893 50  0000 C CNN
+F 1 "LED_Small" H 7350 2984 50  0000 C CNN
+F 2 "LedBoard:Cree_J_Series_3030" V 7350 3100 50  0001 C CNN
+F 3 "~" V 7350 3100 50  0001 C CNN
+	1    7350 3100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2650 3100 2750 3100
+Wire Wire Line
+	2950 3100 3050 3100
+Wire Wire Line
+	3250 3100 3350 3100
+Wire Wire Line
+	3550 3100 3650 3100
+Wire Wire Line
+	3850 3100 3950 3100
+Wire Wire Line
+	4150 3100 4250 3100
+Wire Wire Line
+	4450 3100 4550 3100
+Wire Wire Line
+	4750 3100 4850 3100
+Wire Wire Line
+	5050 3100 5150 3100
+Wire Wire Line
+	5350 3100 5450 3100
+Wire Wire Line
+	5650 3100 5750 3100
+Wire Wire Line
+	5950 3100 6050 3100
+Wire Wire Line
+	6250 3100 6350 3100
+Wire Wire Line
+	6550 3100 6650 3100
+Wire Wire Line
+	6850 3100 6950 3100
+Wire Wire Line
+	7150 3100 7250 3100
+Wire Wire Line
+	2000 2650 2000 2550
+Wire Wire Line
+	2000 2550 2450 2550
+Wire Wire Line
+	2450 2550 2450 2500
+Connection ~ 2000 2550
+Wire Wire Line
+	2450 2550 2450 3100
+Connection ~ 2450 2550
+Wire Wire Line
+	2000 2550 2000 2100
+Wire Wire Line
+	2000 2100 7700 2100
+Wire Wire Line
+	7700 2100 7700 2500
+Wire Wire Line
+	7700 2500 8000 2500
+Wire Wire Line
+	8000 2500 8000 2600
+$Comp
+L Connector:Conn_01x08_Female J2
+U 1 1 5FB24D70
+P 8200 2800
+F 0 "J2" H 8228 2776 50  0000 L CNN
+F 1 "Conn_01x08_Female" H 8228 2685 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal" H 8200 2800 50  0001 C CNN
+F 3 "~" H 8200 2800 50  0001 C CNN
+	1    8200 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 8000 2500
+$Comp
+L Connector:Conn_01x08_Male J1
+U 1 1 5FB26AFE
+P 1800 2850
+F 0 "J1" H 1908 3331 50  0000 C CNN
+F 1 "Conn_01x08_Male" H 1908 3240 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal" H 1800 2850 50  0001 C CNN
+F 3 "~" H 1800 2850 50  0001 C CNN
+	1    1800 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 2500 7550 2500
+Wire Wire Line
+	8000 2900 7600 2900
+Wire Wire Line
+	7600 3300 2250 3300
+Wire Wire Line
+	7600 2900 7600 3300
+Wire Wire Line
+	8000 3000 7650 3000
+Wire Wire Line
+	7650 3000 7650 3350
+Wire Wire Line
+	7650 3350 2200 3350
+Wire Wire Line
+	8000 3100 7700 3100
+Wire Wire Line
+	7700 3100 7700 3400
+Wire Wire Line
+	7700 3400 2150 3400
+Wire Wire Line
+	8000 3200 7750 3200
+Wire Wire Line
+	7750 3200 7750 3450
+Wire Wire Line
+	7750 3450 2100 3450
+Text Label 3050 3400 0    50   ~ 0
+LED5_Return
+Text Label 2750 3450 0    50   ~ 0
+LED6_Return
+Text Label 3750 3350 0    50   ~ 0
+LED4_Return
+Text Label 4400 3300 0    50   ~ 0
+LED3_Return
+Text Label 4950 3250 0    50   ~ 0
+LED2_Return
+Text Label 5500 3200 0    50   ~ 0
+LED1_Return
+Text Label 2400 2100 0    50   ~ 0
+LED_HI
+Wire Wire Line
+	2250 2850 2000 2850
+Wire Wire Line
+	2250 2850 2250 3300
+Wire Wire Line
+	2200 2950 2000 2950
+Wire Wire Line
+	2200 2950 2200 3350
+Wire Wire Line
+	2150 3050 2150 3400
+Wire Wire Line
+	2150 3050 2000 3050
+Wire Wire Line
+	2100 3150 2100 3450
+Wire Wire Line
+	2100 3150 2000 3150
+Wire Wire Line
+	7450 3500 2000 3500
+Wire Wire Line
+	2000 3500 2000 3250
+Wire Wire Line
+	7450 3100 7450 3500
+Wire Wire Line
+	7550 2500 7550 3250
+Wire Wire Line
+	7550 3250 2300 3250
+Wire Wire Line
+	2300 3250 2300 2750
+Wire Wire Line
+	2300 2750 2000 2750
+$EndSCHEMATC
